@@ -170,7 +170,7 @@ footer .footeritem {
 
 .row {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: center;
     gap: 30px;
 }
